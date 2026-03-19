@@ -4,6 +4,10 @@
     text-align: center;
 }
 
+body {
+    background-color: rgb(244, 192, 136);
+}
+
 h1{
     background-color: #081b31;
     color: #fff;
